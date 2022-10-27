@@ -1,4 +1,5 @@
 # demo-app
+Node version must between  12 & 17 => https://github.com/sass/node-sass/releases/tag/v7.0.3
 
 ## Project setup
 ```
